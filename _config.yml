@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yashwanth Nakka"
+title                    : "Yashwanth Nakka"
 title_separator          : "-"
-name                     : &name "Dr. Yashwanth Nakka"
+name                     : &name "Yashwanth Nakka"
 description              : &description "Space Systems, Robotics, Autonomy, and Control Theory"
 url                      : https://ynakka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
